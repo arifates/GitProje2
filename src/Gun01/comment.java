@@ -8,6 +8,14 @@ public class comment {
             System.out.println("Merhaba " +i);
         }
 
+        int sayac=0;
+        do {
+            System.out.println("yeni merhaba");
+            sayac++;
+
+        }while (sayac<5);
+
+
 
 
     }
