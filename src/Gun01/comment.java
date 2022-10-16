@@ -15,6 +15,9 @@ public class comment {
 
         }while (sayac<5);
 
+        System.out.println("Malatya Malatya bulunmaz eşi");
+
+
 
 
 
